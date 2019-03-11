@@ -22,7 +22,6 @@ class PsyShip extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
       routes: routes,
     );
   }
